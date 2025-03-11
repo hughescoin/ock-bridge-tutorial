@@ -61,3 +61,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project is based on the OnchainKit Bridge Component guide from [Base.org](https://base.org)
+
+---
+
+[OnchainKit]: https://onchainkit.xyz/
+[Appchains]: https://docs.cdp.coinbase.com/appchains/docs/welcome
