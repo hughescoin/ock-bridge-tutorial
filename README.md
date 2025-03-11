@@ -6,10 +6,9 @@ This repository contains a demo application showcasing the Bridge Component from
 
 ## Features
 
-- Connect wallet functionality with Coinbase's OnchainKit
+- Connect wallet functionality using OnchainKit
 - Token bridging between networks
 - Responsive design that works on mobile and desktop
-- Dark/light mode support
 
 ## Getting Started
 
